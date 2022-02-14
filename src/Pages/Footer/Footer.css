@@ -1,0 +1,18 @@
+.footer{
+    background-color: #1b1d1d;
+    color: white;
+    padding-bottom: 10px;
+}
+.footer-infos{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin-top: 40px;
+    padding: 20px;
+    color: white;
+}
+.footer-info:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color:lightblue;
+}
+
